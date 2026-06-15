@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "video-link": "multitext",
+    "repo-link": "multitext"
+  }
+}
